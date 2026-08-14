@@ -1,0 +1,4 @@
+click>=8.1,<9
+fastmcp>=2,<3
+pydantic>=2.7,<3
+requests>=2.31,<3
